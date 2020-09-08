@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "echo 'Passed ✅ John you re a god!'"
   },
   "dependencies": {
     "next": "9.5.3",
